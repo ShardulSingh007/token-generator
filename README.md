@@ -13,3 +13,5 @@ To-Do:
 • Add your Proxies in 'input/proxies.txt'
 • Add your CapSolver-Key in 'config.json'
 • Run 'main.py'
+
+THIS TOKEN GENERATOR IS NOT MADE BY ME
